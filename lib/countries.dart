@@ -3003,7 +3003,7 @@ const List<Country> countries = [
       "fa": "هنگ کنگ",
       "yue": "香港"
     },
-    flag: "🇭🇰",
+    flag: "🇨🇳",
     code: "HK",
     dialCode: "852",
     minLength: 8,
@@ -3964,7 +3964,7 @@ const List<Country> countries = [
       "fa": "ماكائو",
       "yue": "澳門"
     },
-    flag: "🇲🇴",
+    flag: "🇨🇳",
     code: "MO",
     dialCode: "853",
     minLength: 8,
@@ -6630,7 +6630,7 @@ const List<Country> countries = [
       "fa": "تایوان",
       "yue": "台灣"
     },
-    flag: "🇹🇼",
+    flag: "🇨🇳",
     code: "TW",
     dialCode: "886",
     minLength: 9,
